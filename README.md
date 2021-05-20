@@ -3,9 +3,9 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.png" width="50" height="50">
 </p>
 
-[![npm version](https://img.shields.io/npm/v/single-spa-angular-app.svg?style=flat-square)](https://www.npmjs.org/package/single-spa-angular)
+[![npm version](https://img.shields.io/npm/v/single-spa-angular.svg?style=flat-square)](https://www.npmjs.org/package/single-spa-angular)
 
-# single-spa-angular-app
+# single-spa-angular
 
 This is an Angular v8 application example used as NPM package in [single-spa-login-example-with-npm-packages](https://github.com/jualoppaz/single-spa-login-example-with-npm-packages) in order to register an application. See the installation instructions there.
 

@@ -20,10 +20,10 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'single-spa-angular-app'`, () => {
+  it(`should have as title 'single-spa-angular'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('single-spa-angular-app');
+    expect(app.title).toEqual('single-spa-angular');
   });
 
   it('should render title', () => {
